@@ -209,6 +209,8 @@ There may be locations where the below can be found that aren't listed. For simp
 - [ ] **Nosepass** (Akala Outskirts)
 - [ ] **Probopass** (Level up Nosepass at Vast Poni Canyon)
 - [ ] **Pyukumuku** (Surfing: Hano Beach)
+
+# 201-250
 - [ ] **Chinchou** (Fishing: Route 8)
 - [ ] **Lanturn** (Evolves from Chinchou at 27)
 - [ ] **Type: Null** (Gladion will give this to you after beating the game. Meet him at Aether Paradise in the Conversation area.)
@@ -258,6 +260,8 @@ There may be locations where the below can be found that aren't listed. For simp
 - [ ] **Frosslass** (Dawn Stone evolution of **FEMALE** Snorunt)
 - [ ] **Sneasel** (Mount Lanakila)
 - [ ] **Weavile** (Level up Sneasel at night while holding Razor Claw)
+
+# 251-302
 - [ ] **Alolan-Sandshrew** (Moon only: Mount Lanakila)
 - [ ] **Alolan-Sandslash** (Ice Stone evolution of A-Sandshrew)
 - [ ] **Alolan-Vulpix** (Sun only: Mount Lanakila)
